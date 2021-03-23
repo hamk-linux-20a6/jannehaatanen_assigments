@@ -1,0 +1,2 @@
+# jannehaatanen_assigments
+Harjoitustehtävien palautukset
