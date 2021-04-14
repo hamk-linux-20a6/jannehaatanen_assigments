@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Third page</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	</head>
+	<body>
+		<h1>Some pictures</h1>
+		<img src="car_640w.jpg" alt="Picture of a car">
+		<img src="Moodle_kuva_640w.jpg" alt="Picture of a me">
+		<p><a href="index.html">Link to courses</a></p>
+		<p><a href="second_page.html">Link to course details</a></p>
+		
+	</body>	
+
+</html>

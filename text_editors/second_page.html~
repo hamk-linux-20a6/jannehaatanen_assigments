@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Second page</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	</head>
+	<body>
+		<h1>Content</h1>
+		<p>We are studying electronics and magnetism in physics class and also learning
+		to use linux operating systems</p>
+
+		<p><a href="third_page.html">Link to some pictures</a></p>
+		<p><a href="index.html">Back to Courses</a></p>
+		
+	
+	</body>
+
+
+
+
+</html>

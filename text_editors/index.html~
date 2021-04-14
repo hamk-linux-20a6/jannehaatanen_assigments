@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>First page</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+
+  <body>
+    <h1>Janne Haatanen</h1>
+    <p>Student at HAMK</p>
+    <h2>Courses</h2>
+    <ul>
+      <li>Physics</li>
+      <li>Linux</li>
+      <li>Windows</li>
+    </ul>
+
+    <p><a href="second_page.html">Link to course details</a></p>
+     <p><a href="third_page.html">Link to some pictures</a></p>
+    
+
+
+  </body>
+
+</html>
